@@ -1,0 +1,12 @@
+Package: SegmentationData
+Type: Package
+Version: 0.1
+Date: 2013-05-17
+Depends: methods, Filenames, TextGrid
+Title: Learning To Talk | Parsing Segmented TextGrids
+Author: Patrick Reidy
+Maintainer: Patrick Reidy <patrick.francis.reidy@gmail.com>
+Description: Parsing and analyzing segmented TextGrids that were 
+  created as a part of the Learning To Talk project.
+URL: learningtotalk.org
+License: GPL-2
